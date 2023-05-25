@@ -1,5 +1,8 @@
 import random
 
+
+print('test1')
+print('你好')
 a = set(
 )
 b = []
