@@ -1,5 +1,5 @@
 import random
-
+print(123)
 print('大樂透')
 print('test1')
 print('你好')
