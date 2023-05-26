@@ -1,4 +1,7 @@
 import random
+
+
+print('haha')
 print(123)
 print('大樂透')
 print('test1')
