@@ -1,6 +1,6 @@
 import random
 
-
+print('大樂透')
 print('test1')
 print('你好')
 a = set(
